@@ -1,4 +1,4 @@
-# e-learning
+# e-learning-1
 
 This is a simple Online Learing site for Programming Languages designed using Bootstrap, HTML5, CSS3, JS for front-end, MySQL for Database creation and php for back-end.
 This site includes online text editor for HTML and CSS and also has experts available which can help the students in queries.
